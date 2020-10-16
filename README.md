@@ -18,3 +18,7 @@ Run Server
 
 $ npm start
 Visit http://localhost:3000
+
+
+$cool project 
+download it run it locally to see how cool the project is
